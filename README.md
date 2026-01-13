@@ -1,4 +1,3 @@
----
 
 ## Task 1: Reading a File with Exception Handling
 
@@ -19,7 +18,6 @@ To read the contents of a text file safely while handling possible runtime error
 - Prints file contents if the file exists.
 - Displays an error message if the file is missing.
 
----
 
 ## Task 2: Writing, Appending, and Reading Data from a File
 
@@ -41,7 +39,6 @@ reading the complete file content.
 - Confirms successful writing and appending of data.
 - Displays the final content of `output.txt`.
 
----
 
 ## How to Run the Programs
 1. Ensure Python 3.x is installed.
